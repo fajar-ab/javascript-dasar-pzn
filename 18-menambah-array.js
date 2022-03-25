@@ -12,7 +12,7 @@ console.table(name)
 /*
  operasi array
  ┌───────────────────────┬──────────────────────────────────────────────────────────────┐
- │ array.push(value)     │  Menambah data ke Array                                      │
+ │ array.push(value)     │ Menambah data ke Array                                       │
  │ array.length          │ Untuk mendapatkan panjang Array                              │
  │ array[index]          │ Mendapat data di posisi index                                │
  │ array[index] = value  │ Mengubah data di posisi index                                │
